@@ -1,0 +1,54 @@
+.Register {
+    text-align: center;
+    margin-bottom: 10px;
+	
+}
+
+.registerForm{
+    border: 3px solid gray;
+    width: 400px;
+    height: 525px;
+    padding-top: 10px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+
+.registerForm input{
+    width: 250px ;
+}
+
+.Register p{
+
+    padding-top: 20px;
+    padding-left: 10px;
+    font-weight: bold;
+    color:rgb(30, 114, 86);
+    font-size: 30px;
+}
+
+.Register button{
+    border-radius: 4px;
+    width: 230px;
+    /* margin-bottom: 3px;  */
+    margin-top: 6px;
+    background-color: rgb(30, 114, 86); 
+    color: white;
+}
+
+
+/* 
+.Register .formWithTitleRegister .btnRegister{
+    background-color: blue;
+    color: white;
+    margin: 15px;
+
+} */
+/* 
+.Register .btnLogin{
+    background-color: blue;
+    color: white;
+    margin: 15px;
+} */
+
+

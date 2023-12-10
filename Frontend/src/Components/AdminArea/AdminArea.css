@@ -1,0 +1,21 @@
+.AdminArea {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 40px;
+    gap: 10px;
+    justify-content: center;
+	
+}
+
+.add_vac_link{
+    width:100%;
+    text-align: center;
+}
+
+.view_repot_link{
+   
+    text-decoration: underline;
+    cursor: pointer;
+    width:100%;
+    text-align: center;
+}
